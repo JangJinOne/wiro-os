@@ -1,0 +1,8 @@
+{
+  "name": "WIRO OS",
+  "short_name": "WIRO",
+  "display": "fullscreen",
+  "start_url": "/",
+  "background_color": "#060612",
+  "theme_color": "#0078d4"
+}
